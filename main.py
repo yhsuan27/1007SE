@@ -1,5 +1,7 @@
 def subtract(a, b):
     return a-b
+def add(a, b):
+    return a + b
 
 
 num1 = float(input("Enter first number: "))
